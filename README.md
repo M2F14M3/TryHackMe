@@ -1,1 +1,1 @@
-# A collection of all the scripts written during the studies on tryhackme
+# A collection of all the important knowledge learnt during the studies on tryhackme
