@@ -1,1 +1,1 @@
-# TryHackMe
+# A collection of all the scripts written during the studies on tryhackme
