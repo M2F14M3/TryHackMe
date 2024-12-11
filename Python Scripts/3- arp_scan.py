@@ -2,7 +2,7 @@
 from scapy.all import ARP, Ether, srp
 
 # Variables declaration.
-# Change from "IP/Subnet" to your actual IP/Subnet (for example like: 192.168.0.1/24).
+# Change from "IP/Subnet" to your actual IP/Subnet (for example 192.168.0.1/24).
 target_ip = "IP/Subnet"
 # Creation of the ARP packet
 arp = ARP(pdst = target_ip)
